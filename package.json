@@ -63,5 +63,10 @@
     "sha.js": "2.4.12",
     "svgo": "4.1.0",
     "undici": "6.28.1"
+  },
+  "version": "5.4.1-lineaje-01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/mjmlio-mjml"
   }
 }
